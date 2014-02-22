@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "version": "0.9",
+  "name": "Search Roulette",
+  "description": "Distribute your searches amongst many search-engines to find new answers and stay private.",
+  "icons": {
+    "16": "img/icon16.png",
+    "32": "img/icon32.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+
+  },
+  "incognito": "split",
+  "offline_enabled": true,
+  "homepage_url": "https://www.aeyoun.priv.no/p/search-roulette/extension.html",
+  "background": {
+    "scripts": [ "background.js" ],
+    "persistent": false
+  },
+  "omnibox": {
+    "keyword" : "find"
+  }
+}
