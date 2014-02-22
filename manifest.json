@@ -18,6 +18,6 @@
     "persistent": false
   },
   "omnibox": {
-    "keyword" : "find"
+    "keyword" : "."
   }
 }
