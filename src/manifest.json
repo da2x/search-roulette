@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "version": "0.9",
   "name": "Search Roulette",
-  "description": "Distribute your searches amongst many search-engines to find new answers and stay private.",
+  "description": "Distribute searches among many search-engines to find new answers and stay private.",
   "icons": {
     "16": "img/icon16.png",
     "32": "img/icon32.png",
