@@ -10,7 +10,7 @@ var searchProviders = {
   },
   searchProvidersKeys = Object.keys( searchProviders );
 
-function randSearch ( input )
+function searchHandler( input )
 {
   var input = input.trim(),
     guessProviderKeyword = input.split( " " )[0];
@@ -39,7 +39,7 @@ function inputHandler( input )
       { 'currentWindow': true, 'active': true },
       function( tab )
       {
-        chrome.tabs.update( tab[0].id, { "url" : randSearch( input ) } );
+        chrome.tabs.update( tab[0].id, { "url" : searchHandler( input ) } );
       }
     )
   }
