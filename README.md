@@ -1,6 +1,6 @@
 ## Search Roulette
 
-Get the *Search Roulette* for [Opera](https://addons.opera.com/extensions/details/search-roulette/) in the extension catalogs.
+Get the *Search Roulette* extension for [Opera](https://addons.opera.com/extensions/details/search-roulette/) in the extension catalogs.
 
 
 
