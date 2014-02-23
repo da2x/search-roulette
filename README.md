@@ -1,6 +1,8 @@
 ## Search Roulette
 
-TODO: Add download links.
+Get the *Search Roulette* for [Opera](https://addons.opera.com/extensions/details/search-roulette/) in the extension catalogs.
+
+
 
 ### Usage
 
