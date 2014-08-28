@@ -14,7 +14,7 @@
   },
   "incognito": "split",
   "offline_enabled": true,
-  "homepage_url": "https://www.aeyoun.priv.no/p/search-roulette/extension.html",
+  "homepage_url": "https://www.aeyoun.com/projects/extensions/search-roulette.html",
   "background": {
     "scripts": [ "background.js" ],
     "persistent": false
